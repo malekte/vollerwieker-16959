@@ -77,6 +77,12 @@ sections:
 
           Welcher Ort nun schöner ist, bleibt Geschmackssache. Als Nordfriese
           hat man natürlich eine Meinung ;-)
+
+
+          Egal wo man lieber seine Zeit verbringt, mit Vollerwiek trifft man
+          immer eine gute Wahl. Zu den Symbolträchtigen Pfahlbauten sind es rund
+          12 Kilometer mit dem Auto, zur Perlebucht sind es rund  26 
+          Kilometer. 
         actions: []
         image: images/map.png
         media_position: right
