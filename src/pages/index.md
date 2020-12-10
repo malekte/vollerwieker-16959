@@ -86,7 +86,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
+    title: 'Was kann '
     subtitle: Grid Section Example
     grid_items:
       - title: Essen & Trinken
