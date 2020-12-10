@@ -61,9 +61,8 @@ sections:
       - title: Berühmte Nachbarn
         subtitle: 'Wer in Vollerwiek wohnt, hat es nicht weit'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Vollerwiek ist womöglich nicht der Erste Ort, welchen man mit Nordsee
+          oder der Halbinsel Eiderstedt asoziiert. 
         actions:
           - label: Learn More
             url: /style-guide
