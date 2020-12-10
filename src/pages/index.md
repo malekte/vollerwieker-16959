@@ -46,8 +46,9 @@ sections:
         media_width: fifty
       - title: Weniger ist Meer
         content: >-
-          Die Ruhe in der goldenen Stunde, je nach Monat höhrt man
-          Schiffsmotoren brummen. 
+          Die Ruhe  der goldenen Stunde. Du schmeckst die salzige Meeresluft.
+          Meer wo das Auge hinreicht. Egal ob an der Badestelle, oder im
+          Schieteck. 
         actions:
           - label: Kontakt
             url: /style-guide
