@@ -108,9 +108,9 @@ sections:
       - title: Essen & Trinken
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Egal ob gehobenes Restaurant oder einfach nur auf die Hand. Vollerwiek
+          und seine Nachbargemeinden auf der Halbinsel Eiderstedt haben einige
+          kulinarischen Hotspots zu entdecken. 
         content_align: left
         actions:
           - label: Learn More
