@@ -55,7 +55,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/IMG_7237.jpeg
+        image: images/imageedit_7_3331595083 (1).jpg
         media_position: left
         media_width: fifty
       - title: Berühmte Nachbarn
