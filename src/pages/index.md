@@ -24,7 +24,7 @@ sections:
     background_image: images/gritte-mvoksMmoxGc-unsplash.jpg
   - type: features_section
     title: Warum Vollerwiek?
-    subtitle: Features Section Example
+    subtitle: 'Nordfrieslands '
     features:
       - title: Mehr als nur 200 Schafe
         subtitle: Im Scherz wird häufig behauptet hier wären nur Schafe
