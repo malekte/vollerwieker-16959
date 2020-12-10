@@ -35,7 +35,7 @@ sections:
           gießen. 
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /daten
             style: primary
             has_icon: true
             icon: arrow-right
