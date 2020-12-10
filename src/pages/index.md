@@ -3,10 +3,11 @@ title: Home
 sections:
   - type: hero_section
     title: ''
-    subtitle: Optional hero section subtitle
+    subtitle: Von einem Vollerwieker für alle Vollerwiekliebhaber
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Wer einmal in Vollerwiek gewesen ist wird sich erinnern. Seevögel
+      zwitschern in der Ferne. Das Meer rauscht und lässt sich vom Wind gegen
+      den Deich drücken. 
     actions:
       - label: Try Free
         url: /pricing
@@ -14,7 +15,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/gritte-mvoksMmoxGc-unsplash.jpg
     media_position: left
     media_width: fifty
     align: left
