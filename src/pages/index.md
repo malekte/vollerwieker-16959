@@ -15,15 +15,15 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/gritte-mvoksMmoxGc-unsplash.jpg
     media_position: left
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: images/gritte-mvoksMmoxGc-unsplash.jpg
   - type: grid_section
-    title: Image Grid
+    title: ''
     subtitle: Grid Section Example
     align: center
     grid_items:
