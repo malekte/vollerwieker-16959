@@ -15,7 +15,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/gritte-mvoksMmoxGc-unsplash.jpg
     media_position: left
     media_width: sixty
     align: left
