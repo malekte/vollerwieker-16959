@@ -185,7 +185,7 @@ sections:
     background_color: primary
   - type: blog_feed_section
     title: Blog
-    subtitle: Was gibt es neues aus Vollerwiek
+    subtitle: Was gibt es neues aus Vollerwiek?
     actions:
       - label: View All
         url: /blog
