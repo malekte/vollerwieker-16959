@@ -23,7 +23,7 @@ sections:
     background_color: primary
     background_image: images/gritte-mvoksMmoxGc-unsplash.jpg
   - type: features_section
-    title: Warum Vollerwiek
+    title: Warum Vollerwiek?
     subtitle: Features Section Example
     features:
       - title: Mehr als nur 200 Schafe
