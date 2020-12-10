@@ -23,8 +23,16 @@ sections:
       - title: Mehr als nur 200 Schafe
         subtitle: Im Scherz wird häufig behauptet hier wären nur Schafe
         content: >-
-          Dabei hat **Vollerwiek** noch viel mehr zu bieten. Auf die zahlreichen
-          Möglichkeiten 
+          Dabei hat **Vollerwiek** noch viel mehr zu bieten. Neben seinen 219
+          Einwohnern (Stand [Dezember
+          2019](https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_2_S/A_I_2_vj_194_Zensus_SH.xlsx))
+          grenzt die nordfriesische Gemeinde an das [UNESCO-Weltnaturerbe
+          Wattenmeer](https://www.unesco.de/kultur-und-natur/welterbe/welterbe-deutschland/wattenmeer). 
+          Nasse Füße müssen wir Vollerwieker trotzdem nicht befürchten. Dank des
+          Deiches, der vom ~~Schimmelreiter~~
+          [LKN.SH](https://www.schleswig-holstein.de/DE/Landesregierung/LKN/lkn_node.html)
+          gehegt und gepflegt wird, müssen wir unsere Pflanzen noch selber
+          gießen. 
         actions:
           - label: Learn More
             url: /style-guide
