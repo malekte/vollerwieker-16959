@@ -187,7 +187,7 @@ sections:
     title: Blog
     subtitle: Was gibt es neues aus Vollerwiek
     actions:
-      - label: View All
+      - label: Zeige alles
         url: /blog
         style: primary
     blog_feed_cols: three
