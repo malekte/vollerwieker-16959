@@ -72,7 +72,10 @@ sections:
 
 
           Daneben darf man auch **Büsum** nicht unerschätzen. Die dithmarscher
-          Gemeinde erfreut sich 
+          Gemeinde erfreut sich ebenfalls wachsender Beliebheit. 
+
+
+          Welcher Ort nun schöner ist, bleibt Geschmackssache. 
         actions: []
         image: images/map.png
         media_position: right
