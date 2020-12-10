@@ -139,7 +139,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/iconfinder_resolutions-15_897236.png
+        image: images/iconfinder_resolutions-15_897236 (1).png
         image_position: top
         image_align: left
         image_has_padding: true
