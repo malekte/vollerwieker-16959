@@ -45,7 +45,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Weniger ist Meer
-        content: 'Diese Seite ist zum einen aus der Motivation geboren, um '
+        content: ' Für so manchen Besucher irritierend, gibt es nichts schöneres, als in kompletter Stille einzuschlafen. Die Ruhe '
         actions:
           - label: Kontakt
             url: /style-guide
