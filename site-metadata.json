@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Watt zu sehen",
-                "url": "in-vollerwiek-essen",
+                "url": "/in-vollerwiek-essen",
                 "style": "link"
             },
             {
