@@ -86,7 +86,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: ''
+    title: Ww
     subtitle: Grid Section Example
     grid_items:
       - title: Essen & Trinken
