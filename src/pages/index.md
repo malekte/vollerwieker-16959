@@ -44,7 +44,7 @@ sections:
         image: images/flock-of-sheep-57694_1920.jpg
         media_position: right
         media_width: fifty
-      - title: Wozu diese Seite?
+      - title: Weniger ist Meer
         content: 'Diese Seite ist zum einen aus der Motivation geboren, um '
         actions:
           - label: Kontakt
