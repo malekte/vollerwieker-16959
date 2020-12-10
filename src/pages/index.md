@@ -66,7 +66,9 @@ sections:
           letzte sein. 
 
 
-          Eidersperrwerk, SPO, Tating, Tönning
+          Jedem Nordseeliebhaber sollte **St. Peter-Ording** ein Begriff sein.
+          Zu Recht ist die Gemeinde mit der "Größten Sandkiste" Deutschlands
+          nach wie vor beliebt.  
         actions:
           - label: Learn More
             url: /style-guide
