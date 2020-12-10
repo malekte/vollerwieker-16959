@@ -34,7 +34,7 @@ sections:
           gehegt und gepflegt wird, müssen wir unsere Pflanzen noch selber
           gießen. 
         actions:
-          - label: Learn More
+          - label: Daten & Fakten
             url: /daten-fakten-vollerwiek
             style: primary
             has_icon: true
