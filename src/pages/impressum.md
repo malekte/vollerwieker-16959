@@ -6,18 +6,27 @@ template: page
 Angaben gemäß § 5 TMG
 
 Malek Tellissi
+
 Westerdeich 20
 25836 Vollerwiek
+
+
 Vertreten durch:
 Malek Tellissi
+
 Kontakt:
+
 Telefon: 01525-2001522
+
 E-Mail: vollerwiekerde@tellissi.com
 
+
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Malek Tellissi
-Westerdeich 20
+
+Malek Tellissi,
+Westerdeich 20,
 25836 Vollerwiek
+
 
 Haftungsausschluss:
 
