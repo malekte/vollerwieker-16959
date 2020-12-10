@@ -31,23 +31,3 @@ module.exports = {
         }
     ]
 };
-// in your gatsby-config.js
-module.exports = {
-  plugins: [
-    {
-      resolve: `gatsby-plugin-gdpr-cookies`,
-      options: {
-        googleAnalytics: {
-          trackingId: 'YOUR_GOOGLE_ANALYTICS_TRACKING_ID', // leave empty if you want to disable the tracker
-          cookieName: 'gatsby-gdpr-google-analytics', // default
-          anonymize: true, // default
-          allowAdFeatures: false // default
-        },
-        
-        
-        // defines the environments where the tracking should be available  - default is ["production"]
-        environments: ['production', 'development']
-      },
-    },
-  ],
-}
