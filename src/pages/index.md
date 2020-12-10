@@ -59,7 +59,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Berühmte Nachbarn
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: 'Wer in Vollerwiek wohnt, hat es nicht weit'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
