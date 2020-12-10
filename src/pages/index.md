@@ -102,7 +102,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Das solltest Du dir ansehen
+    title: Guck mal
     subtitle: Das kannst Du in Vollerwiek erleben
     grid_items:
       - title: Essen & Trinken
