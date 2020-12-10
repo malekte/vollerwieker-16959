@@ -22,7 +22,7 @@ sections:
     features:
       - title: Mehr als nur 200 Schafe
         subtitle: Im Scherz wird häufig behauptet hier wären nur Schafe
-        content: >-
+        content: >+
           Dabei hat **Vollerwiek** noch viel mehr zu bieten. Neben seinen 219
           Einwohnern (Stand [Dezember
           2019](https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_2_S/A_I_2_vj_194_Zensus_SH.xlsx))
@@ -33,6 +33,7 @@ sections:
           [LKN.SH](https://www.schleswig-holstein.de/DE/Landesregierung/LKN/lkn_node.html)
           gehegt und gepflegt wird, müssen wir unsere Pflanzen noch selber
           gießen. 
+
         actions:
           - label: Daten & Fakten zu Vollerwiek
             url: /daten-fakten-vollerwiek
