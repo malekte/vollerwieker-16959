@@ -92,7 +92,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: 'Moin bedeutet '
+      - title: Moin bedeutet Hallo
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
