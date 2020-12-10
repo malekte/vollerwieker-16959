@@ -2,7 +2,7 @@
     "description": "Eine Seite für alle Liebhaber des Dorfes Vollerwiek in Nordfriesland.",
     "layout": "full-width",
     "style": "classic",
-    "palette": "blue",
+    "palette": "green",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
