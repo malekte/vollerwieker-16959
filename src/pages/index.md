@@ -128,8 +128,8 @@ sections:
         title_align: left
         content: >-
           Schlafen ist nicht gleich Schlafen. Wer erholsam schlafen möchte, ist
-          in Vollerwiek genau richtig. Viele Vollerwieker Gastgeber möchten ihr
-          ruhiges gemütliches Heim mit dir teilen. 
+          in Vollerwiek genau richtig. Für wen Wind Musik in den Ohren ist,
+          Vollerwieker möchten ihr ruhiges gemütliches Heim mit dir teilen. 
         content_align: left
         actions:
           - label: Learn More
