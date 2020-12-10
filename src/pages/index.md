@@ -45,7 +45,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Weniger ist Meer
-        content: ' Für so manchen Besucher irritierend, gibt es nichts schöneres, als in kompletter Stille einzuschlafen. Die Ruhe in der goldenen Stunde, '
+        content: ' Für so manchen Besucher irritierend, gibt es nichts schöneres, als in kompletter Stille einzuschlafen. Die Ruhe in der goldenen Stunde, je nach Monat höhrt man Schiffsmotoren brummen.'
         actions:
           - label: Kontakt
             url: /style-guide
