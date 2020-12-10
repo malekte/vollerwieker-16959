@@ -87,7 +87,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Ww
-    subtitle: Grid Section Example
+    subtitle: Das kannst Du in Vollerwiek erleben
     grid_items:
       - title: Essen & Trinken
         title_align: left
