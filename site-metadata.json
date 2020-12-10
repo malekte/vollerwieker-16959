@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Watt zu sehen",
-                "url": "/features",
+                "url": "/etwas-in-vollerwiek-unternehmen",
                 "style": "link"
             },
             {
@@ -21,8 +21,8 @@
                 "style": "link"
             },
             {
-                "label": "Watt zu esssen",
-                "url": "/about",
+                "label": "Watt zu essen",
+                "url": "/in-vollerwiek-essen",
                 "style": "link"
             },
             {
@@ -44,9 +44,10 @@
                 "style": "link"
             },
             {
-                "label": "Get Started",
+                "label": "",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": false
             }
         ],
         "has_anncmnt": true,
@@ -113,33 +114,6 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
             },
