@@ -91,7 +91,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Impressum",
-                "url": "/terms-conditions",
+                "url": "/impressum",
                 "style": "link"
             },
             {
