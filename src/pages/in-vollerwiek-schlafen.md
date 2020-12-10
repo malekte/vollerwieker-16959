@@ -1,5 +1,5 @@
 ---
-title: ''
+title: In Vollerwiek schlafen
 excerpt: lorem-ipsum
 template: page
 ---
