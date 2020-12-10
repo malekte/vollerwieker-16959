@@ -95,7 +95,7 @@ sections:
     features:
       - title: '"Sturm ist erst, wenn die Schafe keine Locken mehr haben"'
         subtitle: Norddeutsche Weisheit
-        image: images/brandon-guidelines.png
+        image: images/sheep-4908767_640.png
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
