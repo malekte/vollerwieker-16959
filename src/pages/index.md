@@ -71,7 +71,8 @@ sections:
           nach wie vor beliebt.  
 
 
-          Daneben darf man auch **Büsum** nicht unerschätzen. 
+          Daneben darf man auch **Büsum** nicht unerschätzen. Die dithmarscher
+          Gemeinde erfreut sich 
         actions: []
         image: images/map.png
         media_position: right
