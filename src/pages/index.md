@@ -46,7 +46,7 @@ sections:
       - title: Wozu diese Seite?
         content: 'Diese Seite ist zum einen aus der Motivation geboren, um '
         actions:
-          - label: Learn More
+          - label: Kontakt
             url: /style-guide
             style: primary
             has_icon: true
