@@ -8,10 +8,7 @@ sections:
       Wer einmal in Vollerwiek gewesen ist wird sich erinnern. Seevögel
       zwitschern in der Ferne. Das rauschende Meer wird vom Wind gegen den Deich
       gepustet.
-    actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
+    actions: []
     media_position: left
     media_width: sixty
     align: left
