@@ -101,7 +101,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Kiek mal
+    title: Kiek mol
     subtitle: Das kannst Du in Vollerwiek erleben
     grid_items:
       - title: Essen & Trinken
