@@ -94,7 +94,7 @@ sections:
   - type: features_section
     features:
       - title: '"Sturm ist erst, wenn die Schafe keine Locken mehr haben"'
-        subtitle: Nicht wie fälschlich angenommen Guten Morgen
+        subtitle: Norddeutsche Weisheit
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
