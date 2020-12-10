@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ''
-    subtitle: Von einem Vollerwieker
+    subtitle: Von einem Vollerwieker für alle Vollerwieklie
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
