@@ -43,7 +43,7 @@ sections:
         image: images/flock-of-sheep-57694_1920.jpg
         media_position: right
         media_width: fifty
-      - title: Wozu diese Seite
+      - title: Wozu diese Seite?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
