@@ -5,8 +5,9 @@ sections:
     title: ''
     subtitle: Von einem Vollerwieker für alle Vollerwiekliebhaber
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Wer einmal in Vollerwiek gewesen ist wird sich erinnern. Seevögel
+      zwitschern in der Ferne. Das Meer rauscht und lässt sich vom Wind gegen
+      den Deich drücken. 
     actions:
       - label: Try Free
         url: /pricing
