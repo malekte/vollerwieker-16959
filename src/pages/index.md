@@ -35,7 +35,7 @@ sections:
           gießen. 
         actions:
           - label: Learn More
-            url: /daten
+            url: /daten-fakten-vollerwiek
             style: primary
             has_icon: true
             icon: arrow-right
