@@ -21,6 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: images/gritte-mvoksMmoxGc-unsplash.jpg
   - type: grid_section
     title: ''
     subtitle: Grid Section Example
