@@ -75,7 +75,8 @@ sections:
           Gemeinde erfreut sich ebenfalls wachsender Beliebheit. 
 
 
-          Welcher Ort nun schöner ist, bleibt Geschmackssache. 
+          Welcher Ort nun schöner ist, bleibt Geschmackssache. Als Nordfriese
+          hat man natürlich eine Meinung ;-)
         actions: []
         image: images/map.png
         media_position: right
