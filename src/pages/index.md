@@ -89,7 +89,7 @@ sections:
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
-      - title: Essen
+      - title: Essen & Trinken
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
