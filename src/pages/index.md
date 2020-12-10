@@ -184,7 +184,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: ''
+    title: Blog
     subtitle: 'Blog '
     actions:
       - label: View All
