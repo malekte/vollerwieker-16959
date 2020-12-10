@@ -27,7 +27,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Mehr als nur 200 Schafe
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Im Scherz wird '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
