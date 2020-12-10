@@ -40,7 +40,7 @@
         "secondary_nav_links": [
             {
                 "label": "Kontact",
-                "url": "/contact",
+                "url": "/kontact",
                 "style": "link"
             },
             {
