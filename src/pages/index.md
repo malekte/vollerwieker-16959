@@ -69,6 +69,9 @@ sections:
           Jedem Nordseeliebhaber sollte **St. Peter-Ording** ein Begriff sein.
           Zu Recht ist die Gemeinde mit der "Größten Sandkiste" Deutschlands
           nach wie vor beliebt.  
+
+
+          Daneben darf man auch **Büsum** nicht unerschätzen. 
         actions:
           - label: Learn More
             url: /style-guide
