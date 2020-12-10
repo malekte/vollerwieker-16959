@@ -127,9 +127,9 @@ sections:
       - title: Schlafen
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Schlafen ist nicht gleich Schlafen. Wer erholsam schlafen möchte, ist
+          in Vollerwiek genau richtig. Viele Vollerwieker Gastgeber möchten ihr
+          ruhiges gemütliches Heim mit dir teilen. 
         content_align: left
         actions:
           - label: Learn More
