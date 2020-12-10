@@ -72,13 +72,7 @@ sections:
 
 
           Daneben darf man auch **Büsum** nicht unerschätzen. 
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/map.png
         media_position: right
         media_width: fifty
