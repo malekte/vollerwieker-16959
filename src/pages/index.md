@@ -6,7 +6,7 @@ sections:
     subtitle: Von einem Vollerwieker für alle Vollerwiekliebhaber
     content: >-
       Wer einmal in Vollerwiek gewesen ist wird sich erinnern. Seevögel
-      zwitschern in der Ferne. Das Meer rauscht wird vom Wind gegen den Deich
+      zwitschern in der Ferne. Das Meer rauscht, wird vom Wind gegen den Deich
       gepustet.
     actions:
       - label: Try Free
