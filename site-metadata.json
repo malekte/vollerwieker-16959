@@ -42,12 +42,6 @@
                 "label": "Kontakt",
                 "url": "/kontakt",
                 "style": "link"
-            },
-            {
-                "label": "",
-                "url": "/pricing",
-                "style": "primary",
-                "has_icon": false
             }
         ],
         "has_anncmnt": true,
