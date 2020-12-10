@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Datenschutz
 excerpt: lorem-ipsum
 template: page
 ---
