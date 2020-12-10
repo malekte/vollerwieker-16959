@@ -29,9 +29,8 @@ sections:
       - title: Mehr als nur 200 Schafe
         subtitle: Im Scherz wird häufig behauptet hier wären nur Schafe
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Dabei hat **Vollerwiek** noch viel mehr zu bieten. Auf die zahlreichen
+          Möglichkeiten 
         actions:
           - label: Learn More
             url: /style-guide
