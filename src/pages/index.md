@@ -47,7 +47,7 @@ sections:
       - title: Weniger ist Meer
         content: >-
           Die Ruhe in der goldenen Stunde, je nach Monat höhrt man
-          Schiffsmotoren brummen.
+          Schiffsmotoren brummen. 
         actions:
           - label: Kontakt
             url: /style-guide
