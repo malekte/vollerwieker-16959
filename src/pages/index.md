@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Vollerwieker
 sections:
   - type: hero_section
     title: ''
