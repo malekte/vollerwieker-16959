@@ -7,21 +7,21 @@
     "base_font": "serif",
     "header": {
         "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/vollerwieker.jpg",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
+                "label": "Watt zu sehen",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Watt zum schlafen",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Watt zu esssen",
                 "url": "/about",
                 "style": "link"
             },
@@ -57,7 +57,7 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
+        "logo": "images/polite-thyme.jpg",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
@@ -153,10 +153,10 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit-DIY. All rights reserved.",
+        "content": "&copy; Vollerwieker",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "",
                 "url": "https://www.stackbit.com",
                 "style": "link"
             }
