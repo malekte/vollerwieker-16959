@@ -62,7 +62,11 @@ sections:
         subtitle: 'Wer in Vollerwiek wohnt, hat es nicht weit'
         content: >-
           Vollerwiek ist womöglich nicht der Erste Ort, welchen man mit Nordsee
-          oder der Halbinsel Eiderstedt asoziiert. 
+          oder der Halbinsel Eiderstedt asoziiert. Er sollte aber auch nicht der
+          letzte sein. 
+
+
+          Eidersperrwerk, SPO, Tating, Tönning
         actions:
           - label: Learn More
             url: /style-guide
