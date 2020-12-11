@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: 'Was es neues aus '
+    subtitle: 'Was es neues '
     align: center
     padding_top: medium
     padding_bottom: none
