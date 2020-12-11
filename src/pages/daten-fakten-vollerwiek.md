@@ -5,10 +5,12 @@ template: page
 ---
 [Vollerwiek](https://www.vollerwiek.de) ist ein nordfriesisches Dorf auf der Halbinsel Eiderstedt in Schleswig-Holstein. 
 
-##### Strukturelles
+##### Geographisches
 Die Gemeinde im [Amt Eiderstedt](https://www.amt-eiderstedt.de/Amt-und-Gemeinden/Gemeinden/Vollerwiek) wird halbseitig durch einen Landesschutz-Deich geschützt. 
 
 Stand Dezember 2019 sind 219 Vollerwieker gemeldet. Diese verteilen sich über die Ortsteile Vollerwiek-Dorf, Altendeich, Süderdeich, Westerdeich, Mühlendeich, Batterie, Blocksberg, Mühlenkoog und Spannbüllhörn
+
+Vollerwiek ist über die Landesstraße (L305) mit vier Abbiegern zu erreichen. 
 
 
 ###### Bürgemeister 
