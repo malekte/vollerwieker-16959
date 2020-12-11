@@ -168,10 +168,7 @@ sections:
     background_color: none
   - type: cta_section
     title: Gegenwind formt den Charakter
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: Merkt man besonders gut bei Radtouren.
     actions: []
     actions_position: right
     actions_width: fourty
