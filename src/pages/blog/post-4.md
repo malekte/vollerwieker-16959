@@ -1,6 +1,6 @@
 ---
 title: Seite online
-subtitle: Vollerwieker.de geht live
+subtitle: Vollerwieker.de geht online
 date: '2020-12-11'
 author: src/data/team/dianne-ameter.yaml
 categories:
