@@ -1,8 +1,6 @@
 ---
 title: Seite online
-subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+subtitle: Vollerwieker.de geht live
 date: '2020-12-11'
 author: src/data/team/dianne-ameter.yaml
 categories:
