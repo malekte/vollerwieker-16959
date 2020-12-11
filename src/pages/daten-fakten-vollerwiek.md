@@ -8,7 +8,8 @@ template: page
 ##### Strukturelles
 Die Gemeinde im [Amt Eiderstedt](https://www.amt-eiderstedt.de/Amt-und-Gemeinden/Gemeinden/Vollerwiek) wird halbseitig durch einen Landesschutz-Deich geschützt. 
 
-Stand Dezember 2019 sind 219 Vollerwieker gemeldet. Diese verteilen sich über die Ortsteile Vollerwiek-Dorf, Altendeich, Süderdeich, Westerdeich, Mühlendeich. 
+Stand Dezember 2019 sind 219 Vollerwieker gemeldet. Diese verteilen sich über die Ortsteile Vollerwiek-Dorf, Altendeich, Süderdeich, Westerdeich, Mühlendeich, Batterie, Blocksberg, Mühlenkoog und Spannbüllhörn
+
 
 ###### Bürgemeister 
 Der aktuelle Brügermeister ist Hans-Jürgen Rosendahl https://www.vollerwiek.de/gemeindevertretung 
