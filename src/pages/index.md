@@ -150,7 +150,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: etwas-in-vollerwiek-unternehmen
+            url: /etwas-in-vollerwiek-unternehmen
             style: link
             has_icon: true
             icon: arrow-right
