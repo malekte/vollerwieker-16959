@@ -3,9 +3,4 @@ title: Daten & Fakten
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Vollerwiek ist ein nordfriesisches Dorf auf der Halbinsel Eiderstedt in Schleswig-Holstein.
