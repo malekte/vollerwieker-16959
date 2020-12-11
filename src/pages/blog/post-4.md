@@ -7,7 +7,6 @@ date: '2020-12-11'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
-  - src/data/categories/news.yaml
 tags:
   - src/data/tags/jamstack.yaml
   - src/data/tags/sourcebit.yaml
