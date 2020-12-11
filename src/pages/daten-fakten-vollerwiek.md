@@ -1,5 +1,5 @@
 ---
-title: Vollerwiek
+title: Vollerwiek in Zahlen
 excerpt: lorem-ipsum
 template: page
 ---
