@@ -15,5 +15,5 @@ Der aktuelle Brügermeister ist Hans-Jürgen Rosendahl https://www.vollerwiek.de
 
 ###### Namensgebung
 Für den Namen gibt es verschiedene Deutungsversuche. Eine der 
-´ einleuchtendsten Begründungen stammt vom Propst F. Feddersen. Er leitet "Wiek" von "Einweich" ab und kommt auf "volle Einweich", eine große, tiefe Bucht – also Hafen.
+einleuchtendsten Begründungen stammt vom Propst F. Feddersen. Er leitet "Wiek" von "Einweich" ab und kommt auf "volle Einweich", eine große, tiefe Bucht – also Hafen. 
 
