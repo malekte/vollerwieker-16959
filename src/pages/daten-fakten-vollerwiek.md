@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Vollerwiek
 excerpt: lorem-ipsum
 template: page
 ---
