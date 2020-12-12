@@ -1,7 +1,7 @@
 ---
 title: In Vollerwiek schlafen
 excerpt: lorem-ipsum
-template: page
+template: advanced
+
 ---
 ## Schlafen am Nordseedeich
-
