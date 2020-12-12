@@ -13,7 +13,7 @@ sections:
   padding_top: large
   padding_bottom: large
   background_color: primary
-  background_image: images/north-sea-4910600_1920.jpg
+  background_image: north-sea-4910600_1920.jpg
 - type: ''
   title: ''
   subtitle: ''
