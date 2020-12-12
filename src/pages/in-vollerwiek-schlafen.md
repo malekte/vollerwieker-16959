@@ -13,7 +13,7 @@ sections:
   padding_top: large
   padding_bottom: large
   background_color: primary
-  background_image: images/gritte-mvoksMmoxGc-unsplash.jpg
+  background_image: images/north-sea.jpg
 - type: features_section
   title: Warum Vollerwiek?
   subtitle: Nordfrieslands Perle
