@@ -1,5 +1,5 @@
 ---
-title: Vollerwieker-(copy)
+title: In Vollerwiek schlafen
 sections:
 - type: hero_section
   title: ''
