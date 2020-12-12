@@ -85,7 +85,7 @@ sections:
           12 Kilometer mit dem Auto, zur Perlebucht sind es rund  26 
           Kilometer. 
         actions: []
-        image: images/map.png
+        image: images/eiderstedt-karte-vollerwiek.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
