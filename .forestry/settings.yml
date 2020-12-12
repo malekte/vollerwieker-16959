@@ -16,6 +16,11 @@ sections:
   label: Seiten
   create: all
   match: "**/*"
+- type: directory
+  path: static/images
+  label: Dateien
+  create: all
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
