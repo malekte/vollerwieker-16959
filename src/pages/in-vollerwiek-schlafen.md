@@ -20,7 +20,20 @@ sections:
   align: center
   padding_top: ''
   padding_bottom: ''
-  background_color: white
+  background_color: normal
+  actions: ''
+  media_position: ''
+  media_width: ''
+  background_image: ''
+  label: ''
+- type: grid_section
+  title: Ferienwohnungen
+  subtitle: ''
+  align: ''
+  padding_top: ''
+  padding_bottom: ''
+  background_color: green
+  content: ''
   actions: ''
   media_position: ''
   media_width: ''
