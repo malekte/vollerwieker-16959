@@ -14,8 +14,8 @@ sections:
   background_color: primary
   background_image: images/essen-in-vollerwiek.jpg
 - type: features_section
-  title: Warum Vollerwiek?
-  subtitle: Nordfrieslands Perle
+  title: ''
+  subtitle: ''
   features:
   - title: Mehr als nur 200 Schafe
     subtitle: Im Scherz wird häufig behauptet hier wären nur Schafe
