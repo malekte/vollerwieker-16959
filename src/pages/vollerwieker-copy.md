@@ -2,14 +2,14 @@
 title: In Vollerwiek schlafen
 sections:
 - type: hero_section
-  title: ''
-  subtitle: Von einem Vollerwieker für alle Vollerwiekliebhaber
+  title: 'Übernachtung '
+  subtitle: Ferienwohnungen und Unterkünfte in Vollerwiek
   content: Wer einmal in Vollerwiek gewesen ist wird sich erinnern. Seevögel zwitschern
     in der Ferne. Das rauschende Meer wird vom Wind gegen den Deich gepustet.
   actions: []
   media_position: left
   media_width: sixty
-  align: left
+  align: center
   padding_top: large
   padding_bottom: large
   background_color: primary
@@ -150,27 +150,6 @@ sections:
   padding_top: large
   padding_bottom: large
   background_color: primary
-- type: blog_feed_section
-  title: Blog
-  subtitle: Was gibt es neues aus Vollerwiek
-  actions:
-  - label: Zeige alles
-    url: "/blog"
-    style: primary
-  blog_feed_cols: three
-  enable_cards: true
-  show_recent: true
-  recent_count: 3
-  show_image: true
-  show_date: true
-  show_categories: true
-  show_author: true
-  show_excerpt: false
-  align: center
-  padding_top: medium
-  padding_bottom: medium
-  has_border: false
-  background_color: none
 template: advanced
 
 ---
