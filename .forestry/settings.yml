@@ -3,7 +3,19 @@ new_page_extension: md
 auto_deploy: false
 admin_path: bearbeiten
 webhook_url: 
-sections: 
+sections:
+- type: heading
+  label: Vollerwieker
+- type: directory
+  path: "**/**"
+  label: ALlles
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/pages
+  label: Seiten
+  create: all
+  match: "**/src/pages/"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
