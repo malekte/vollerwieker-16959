@@ -6,14 +6,6 @@ template: page
 ---
 [Vollerwiek](https://www.vollerwiek.de) ist ein nordfriesisches Dorf auf der Halbinsel Eiderstedt in Schleswig-Holstein.
 
-| --- | --- |
-| Bundesland | Schleswig-Holstein |
-| Kreis | Nordfriesland |
-| Bürgermeister | Hans-Jürgen Rosendahl |
-| Postleitzahl | 25836 |
-| KFZ-Kennzeichen | NF |
-| Vorwahl | 04862 |
-
 ##### Geographisches
 
 Die Gemeinde im [Amt Eiderstedt](https://www.amt-eiderstedt.de/Amt-und-Gemeinden/Gemeinden/Vollerwiek) wird halbseitig durch einen Landesschutz-Deich geschützt.
