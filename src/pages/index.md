@@ -50,7 +50,7 @@ sections:
           Meer wo das Auge hinreicht. Egal ob an der Badestelle, oder im
           Schieteck. 
         actions:
-          - label: Kontakt
+          - label: Badestellen in Vollerwiek
             url: /badestellen-in-vollerwiek
             style: primary
             has_icon: true
