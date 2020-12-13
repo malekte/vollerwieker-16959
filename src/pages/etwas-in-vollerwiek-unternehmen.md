@@ -2,7 +2,7 @@
 title: Etwas in Vollerwiek unternehmen
 sections:
 - type: hero_section
-  title: Die Sehenswürdigkeiten und Möglichkeiten in Vollerwiek
+  title: ''
   subtitle: ''
   content: ''
   actions: []
@@ -13,6 +13,19 @@ sections:
   padding_bottom: large
   background_color: primary
   background_image: images/jan-bottinger-Ts-a3v221FM-unsplash.jpg
+- type: ''
+  title: Die Sehenswürdigkeiten und Möglichkeiten in Vollerwiek
+  subtitle: ''
+  align: ''
+  padding_top: ''
+  padding_bottom: ''
+  background_color: none
+  actions: ''
+  media_width: ''
+  background_image: ''
+  label: ''
+  content: 'In Vollerwiek und seinen Nachbargemeinden gibt es einiges zu erleben.
+    Hier findest Du eine Sammlung an Orten und Aktivitäten in und um Vollerwiek. '
 template: advanced
 
 ---
