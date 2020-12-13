@@ -2,6 +2,7 @@
 title: Datenschutz
 excerpt: lorem-ipsum
 template: page
+
 ---
 Einleitung
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als "Onlineangebot“).
@@ -85,17 +86,15 @@ Sofern wir Daten in einem Drittland (d.h., außerhalb der Europäischen Union (E
 
 Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich oder gesetzlich erforderlicher Übermittlung verarbeiten oder lassen wir die Daten nur in Drittländern mit einem anerkannten Datenschutzniveau, vertraglichen Verpflichtung durch sogenannte Standardschutzklauseln der EU-Kommission, beim Vorliegen von Zertifizierungen oder verbindlicher internen Datenschutzvorschriften verarbeiten (Art. 44 bis 49 DSGVO, Informationsseite der EU-Kommission: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_de ).
 
-
-Stackbit
 Systembetreiber
 
-Wir verwenden die Dienste von Netlify Inc. (“Netlify”). Indem du uns personenbezogene Daten zur Verfügung stellst, erklärst du dich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt deine persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
+Wir verwenden die Dienste von Vercel Inc. Indem du uns personenbezogene Daten zur Verfügung stellst, erklärst du dich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Vercel einverstanden. Vercel gibt deine persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
 
-Deine persönlichen Daten werden von Netlify verwendet, um Dienste für Dich bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
+Deine persönlichen Daten werden von Vercel verwendet, um Dienste für Dich bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
 
-Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Netlify wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
+Vercel verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Vercel wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
 
-Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” findest du unter https://www.netlify.com/privacy/.
+Weiterführende Informationen zu der Datenschutzrichtlinie von “Vercel” findest du unter [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy "https://vercel.com/legal/privacy-policy").
 
 Unsere Webseite nutzt außerdem die Dienste und Angebote der Stackbit, San Francisco. Die Dienste dienen uns dazu unsere Onlineangebote so zu erstellen, zu pflegen und zu präsentieren, dass diese für Sie als Nutzer optimal dargestellt werden (Art. 6 Abs. 1 lit f DSGVO). Die Inhalte werden dabei zum einen unmittelbar durch das Content Delivery Network Stackbit zur Verfügung gestellt aber auch über weiterer Dienstleister, insbesondere der GitHub, Inc
 
@@ -182,4 +181,3 @@ Tracking: Vom "Tracking“ spricht man, wenn das Verhalten von Nutzern über meh
 Verantwortlicher: Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
 Verarbeitung: "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
 Erstellt mit kostenlosem [Datenschutz-Generator.de von Dr. Thomas Schwenke](https://https://datenschutz-generator.de/)
-
