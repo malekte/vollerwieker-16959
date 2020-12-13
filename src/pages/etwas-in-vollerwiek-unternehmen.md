@@ -6,7 +6,7 @@ sections:
   subtitle: ''
   content: ''
   actions: []
-  media_position: left
+  media_position: center
   media_width: hundred
   align: center
   padding_top: large
