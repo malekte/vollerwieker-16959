@@ -51,7 +51,7 @@ sections:
           Schieteck. 
         actions:
           - label: Kontakt
-            url: /style-guide
+            url: /badestellen-in-vollerwiek
             style: primary
             has_icon: true
             icon: arrow-right
