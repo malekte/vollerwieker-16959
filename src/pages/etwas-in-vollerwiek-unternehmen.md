@@ -14,7 +14,7 @@ sections:
   background_color: primary
   background_image: images/jan-bottinger-Ts-a3v221FM-unsplash.jpg
 - type: ''
-  title: Die Sehenswürdigkeiten und Möglichkeiten in Vollerwiek
+  title: Plätze und Sehenwürdigkeiten in Vollerwiek
   subtitle: ''
   align: ''
   padding_top: ''
