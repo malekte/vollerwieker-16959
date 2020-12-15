@@ -8,12 +8,17 @@ sections:
   label: Vollerwieker
 - type: directory
   path: "**/**"
-  label: ALlles
+  label: Alles
   create: all
   match: "**/*"
 - type: directory
   path: src/pages/blog
   label: Blog
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/data/tags
+  label: Tags
   create: all
   match: "**/*"
 - type: directory

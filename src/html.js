@@ -6,7 +6,14 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
-      </head>
+     <script
+  dangerouslySetInnerHTML={{
+    __html: `
+       id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="e225a8bc-9b8f-4291-9d15-4e009670e8d4" data-blockingmode="auto" type="text/javascript
+    `,
+  }}
+/>
+    </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
         <noscript key="noscript" id="gatsby-noscript">
